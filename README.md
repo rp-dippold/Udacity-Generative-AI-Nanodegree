@@ -1,5 +1,5 @@
 # Udacity-Generative-AI-Nanodegree
-This repository contains the project notebooks of Udacity's "Generative AI" Nanodegree.
+This repository contains the project-notebooks of Udacity's "Generative AI" Nanodegree.
 
 ## Installation, Dependencies and Starting the Notebook
 The code of the projects was tested on Linux (Ubuntu 20.04). To get the code running on your local system, follow these steps which are base on Anaconda, pip and git:
@@ -8,8 +8,8 @@ The code of the projects was tested on Linux (Ubuntu 20.04). To get the code run
 1. Go to a folder where you want to clone the repository.
 2. In a bash terminal enter `git clone https://github.com/rp-dippold/Udacity-Generative-AI-Nanodegree.git`.
 
-### Setting up Python environment for a Project
-Enter the following commands in a bash terminal and enter the project number where necessary, e.g. replace <px> with p1:
+### Setting up a Python environment for a Project
+Enter the following commands in a bash terminal and enter the project number where necessary, e.g. replace `<px>` with `p1`:
 1. `cd Udacity-Generative-AI-Nanodegree`
 2. `conda create --name udacity_genai_<px> python=3.9.18 -c conda-forge`
 3. `conda activate udacity_genai_<px>`
