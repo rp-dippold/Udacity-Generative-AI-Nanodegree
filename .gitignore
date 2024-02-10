@@ -159,9 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-./p1_lightweight_fine_tuning/data
-./p1_lightweight_fine_tuning/models/gpt-lora-full
-./p1_ligthweight_fine_tuning/models/gpt-2-tokenizer
-./p1_lightweight_fine_tuning/models/gpt-2-pretrained
+p1_lightweight_fine_tuning/data
+p1_lightweight_fine_tuning/models/gpt-2-lora-full
+p1_lightweight_fine_tuning/models/gpt-2-tokenizer
+p1_lightweight_fine_tuning/models/gpt-2-pretrained
 Test-LightweightFineTuning.ipynb
 
