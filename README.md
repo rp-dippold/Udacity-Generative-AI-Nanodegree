@@ -22,4 +22,4 @@ Enter the following commands in a bash terminal and substitute the project numbe
 2. Start the notebook by entering `jupyter-notebook` into the bash terminal.
 3. Copy one of the displayed URLs, e.g. 'http://127.0.0.1:8888/?token=78c...' in a browser tab.
 4. Select the notebook `<name>.ipynb` in your browser.
-5. Select the kernel "udacity_genai_<px>" before running the cells.
+5. Select the kernel `udacity_genai_<px>` before running the cells.
