@@ -9,7 +9,7 @@ The code of the projects was tested on Linux (Ubuntu 20.04). To get the code run
 2. In a bash terminal enter `git clone https://github.com/rp-dippold/Udacity-Generative-AI-Nanodegree.git`.
 
 ### Setting up a Python environment for a Project
-Enter the following commands in a bash terminal and enter the project number where necessary, e.g. replace `<px>` with `p1`:
+Enter the following commands in a bash terminal and substitute the project number where necessary, e.g. replace `<px>` with `p1`:
 1. `cd Udacity-Generative-AI-Nanodegree`
 2. `conda create --name udacity_genai_<px> python=3.9.18 -c conda-forge`
 3. `conda activate udacity_genai_<px>`
